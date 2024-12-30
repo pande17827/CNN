@@ -29,6 +29,6 @@ try:
     print("Auto-push started. Press Ctrl+C to stop.")
     while True:
         push_changes()
-        time.sleep(30)  # Wait for 1 minute
+        time.sleep(10)  # Wait for 1 minute
 except KeyboardInterrupt:
     print("Auto-push stopped.")
