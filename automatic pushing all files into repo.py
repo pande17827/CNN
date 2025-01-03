@@ -4,7 +4,7 @@ import time
 
 # Define the repository path
 repo_path = "/workspaces/CNN"  # Replace with your repo path
-commit_message = "Auto-push: Updated all files"
+commit_message = "Updated all files"
 
 # Change to the repository directory
 os.chdir(repo_path)
